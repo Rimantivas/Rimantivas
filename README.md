@@ -1,4 +1,4 @@
-Hello! I'm kind of a quiet "social hermit" (if that makes any sense) trying to get myself to learn how to code after wasting an inordinate amount of time only thinking about doing it, or just watching/reading a tutorial and doing little to nothing with that knowledge.
+Hello! I'm a quiet "social hermit" (if that makes any sense) trying to get myself to learn how to code after wasting an inordinate amount of time only thinking about doing it, or just watching/reading a tutorial and doing little to nothing with that knowledge.
 
 I treat my projects (I mean anything, not just code/programming related projects) as though they are "real" because I've learned through past exprience that's usually what it takes to motivate me to work on it/get me to actually learn something. If you see something here that is blatantly too much/advanced for a beginner/novice, that may be why. I guess I'll just have to try and see where/how that goes.
 
